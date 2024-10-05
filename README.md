@@ -14,9 +14,6 @@ P.S. This was originally supposed to be an After Effects plugin
 * PyQt5
 * moviepy
 
-## Watch the demo/tutorial video
-[![Demo/Tutorial](https://img.youtube.com/vi/ls3YQ3dvgx4/0.jpg)](https://www.youtube.com/watch?v=ls3YQ3dvgx4)
-
 ## Link to google drive with exe
 [ColorVSN.exe](https://drive.google.com/drive/folders/168G3LOUrbcf1WjiexT2htP700uJmzLHh?usp=sharing)
 
