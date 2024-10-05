@@ -13,3 +13,9 @@ P.S. This was originally supposed to be an After Effects plugin
 * openCV-python
 * PyQt5
 * moviepy
+
+## Link to google drive with exe
+[ColorVSN.exe](https://drive.google.com/drive/folders/168G3LOUrbcf1WjiexT2htP700uJmzLHh?usp=sharing)
+
+## The person who wrote the code for my gui
+[Fiverr](https://www.fiverr.com/fatima103?source=order_page_user_message_inner_link)
