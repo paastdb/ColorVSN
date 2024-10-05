@@ -15,7 +15,7 @@ P.S. This was originally supposed to be an After Effects plugin
 * moviepy
 
 ## Watch the demo/tutorial video
-[![Demo/Tutorial](https://img.youtube.com/vi/g6luW0c0TAzpVEfN/0.jpg)](https://youtu.be/YmdOgT6EaMc?si=g6luW0c0TAzpVEfN)
+[![Demo/Tutorial](https://youtu.be/YmdOgT6EaMc?si=g6luW0c0TAzpVEfN)
 
 ## Link to google drive with exe
 [ColorVSN.exe](https://drive.google.com/drive/folders/168G3LOUrbcf1WjiexT2htP700uJmzLHh?usp=sharing)
