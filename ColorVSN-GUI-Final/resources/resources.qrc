@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="logos">
+        <file>logos/logo.png</file>
+        <file>logos/vsn.png</file>
+    </qresource>
+    <qresource prefix="images">
+        <file>images/Upload.png</file>
+    </qresource>
+    <qresource prefix="icons">
+        <file>icons/color-palette-icon.png</file>
+        <file>icons/color-palette-bar-icon.png</file>
+        <file>icons/color-palette-bars-icon.png</file>
+        <file>icons/brightness-icon.png</file>
+        <file>icons/brightness-icon-24x24.png</file>
+        <file>icons/contrast-icon.png</file>
+        <file>icons/close-icon.png</file>
+        <file>icons/close-icon.png</file>
+        <file>icons/restore-icon.png</file>
+        <file>icons/minimize-icon.png</file>
+    </qresource>
+
+</RCC>
