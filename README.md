@@ -1,5 +1,8 @@
 # ColorVSN
 
+## Now Available as a Plugin for After Effects/Premiere/Resolve on Win/Mac!
+[Plugin](https://aescripts.com/colorvsn/)
+
 ## A new program that creates unique colormap effects on .mp4 files
 
 This program has has options for contrast & brightness sliders, a button to turn on and off the infrared effect, and various options to choose different colormaps
